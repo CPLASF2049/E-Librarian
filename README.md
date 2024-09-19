@@ -10,10 +10,11 @@
     <a href="https://github.com/Ceriflor"><img src="./pics/2.jpg" width="100px" alt="2" radius: "100%"/></a>
    <a href="https://github.com/ENDERandHUNTER"><img src="./pics/3.jpg" width="100px" alt="3" radius: "100%"/></a>
 </p>
-`云端书舍`由**李思源**、**莫嘉豪**和**饶欣哲**共同开发完成。
 
+`云端书舍`由**李思源**、**莫嘉豪**和**饶欣哲**共同开发完成。
 我们欢迎任何形式的贡献，包括功能请求、bug报告和代码提交。
 
+--- 
 ## 💻  UI界面
 
 
