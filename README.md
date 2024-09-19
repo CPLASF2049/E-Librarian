@@ -5,6 +5,12 @@
 **云端书舍** 是一款革命性的无人值守图书馆系统，它将物联网（IoT）、射频识别（RFID）和人工智能（AI）技术融为一体，为图书馆管理带来了前所未有的自动化和智能化。无论是图书爱好者还是图书馆管理员，**云端书舍** 都能提供高效、便捷、安全的服务体验。
 
 ## 🤝 项目成员
+<p>
+    <a href="https://github.com/CPLASF2049"><img src="./pics/1.jpg" width="100px" alt="1" border-radius: "100%"/></a>
+    <a href="https://github.com/Ceriflor"><img src="./pics/2.jpg" width="100px" alt="2" radius: "100%"/></a>
+   <a href="https://github.com/ENDERandHUNTER"><img src="./pics/3.jpg" width="100px" alt="3" radius: "100%"/></a>
+</p>
+`云端书舍`由**李思源**、**莫嘉豪**和**饶欣哲**共同开发完成。
 
 我们欢迎任何形式的贡献，包括功能请求、bug报告和代码提交。
 
