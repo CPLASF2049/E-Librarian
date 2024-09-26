@@ -111,12 +111,30 @@
 
  
  <div align = "center">
-- <img src="https://github.com/CPLASF2049//E-Librarian/pics/page1.png" width="18%" />
-- <img src="https://github.com/CPLASF2049//E-Librarian/pics/page2.png" width="18%" />
-- <img src="https://github.com/CPLASF2049//E-Librarian/pics/page3.png" width="18%" />
-- <img src="https://github.com/CPLASF2049//E-Librarian/pics/page4.png" width="18%" />
-- <img src="https://github.com/CPLASF2049//E-Librarian/pics/page5.png" width="18%" />
-- <img src="https://github.com/CPLASF2049//E-Librarian/pics/page6.png" width="18%" />
-- <img src="https://github.com/CPLASF2049//E-Librarian/pics/page7.png" width="18%" />
+ <img src="https://github.com/CPLASF2049//E-Librarian/pics/page1.png" width="100%" />
 </div>
- 
+
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049//E-Librarian/pics/page2.png" width="100%" />
+</div>
+
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049//E-Librarian/pics/page3.png" width="100%" />
+</div>
+
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049//E-Librarian/pics/page4.png" width="100%" />
+</div>
+
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049//E-Librarian/pics/page5.png" width="100%" />
+</div>
+
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049//E-Librarian/pics/page6.png" width="100%" />
+</div>
+
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049//E-Librarian/pics/page7.png" width="100%" />
+</div>
+
