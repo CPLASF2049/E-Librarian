@@ -78,6 +78,15 @@
   - `SMS API`：发送短信通知。
 
 ## 4. 系统流程分析
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049/E-Librarian/blob/main/pics/借书时序图.png" width="80%" />
+</div>
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049/E-Librarian/blob/main/pics/还书时序图.png" width="80%" />
+</div>
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049/E-Librarian/blob/main/pics/历史记录时序图.png" width="50%" />
+</div>
 
 ### 4.1 用户注册流程
 1. 用户通过用户界面提交注册信息（用户名、密码、邮箱）。
