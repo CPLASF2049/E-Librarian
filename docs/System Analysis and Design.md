@@ -30,6 +30,10 @@
 
 ### 2.1 组件视图
 云端书舍系统的主要组件包括：
+ 
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049/E-Librarian/blob/main/pics/组件图.png" width="100%" />
+</div>
 
 - **用户界面**：提供用户交互的前端界面。
 - **账户管理服务**：处理用户注册、登录和信息更新。
