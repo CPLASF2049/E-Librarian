@@ -106,8 +106,12 @@
 8. **可复用性**
    - 系统应能保证各主要功能（如登录、注册、查询记录等）在移植到其他类似系统时应能在其他项目中直接复用，无需或仅需少量修改。
 
+## 5. 用例图
+ <div align = "center">
+ <img src="https://github.com/CPLASF2049/E-Librarian/blob/main/pics/用例图.png" width="100%" />
+</div>
 
-## 5. 原型设计
+## 6. 原型设计
 
  
  <div align = "center">
